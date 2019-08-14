@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animals Facts</string>
+    <string name="poorConnectionErrorMessage">No internet connection!</string>
+    <string name="initialMainTextViewValue">Press to see random fact about animals!</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Факты о животных</string>
+    <string name="poorConnectionErrorMessage">Нет интернет-соединения!</string>
+    <string name="initialMainTextViewValue">Нажмите, чтобы увидеть случайный факт о животных!</string>
+</resources>
